@@ -4,7 +4,7 @@
 
 The SXSW Hackathon (formerly the SXSW Music Hackathon) is 24 straight hours of buzzing, high-tech creativity as music, VR/AR, and film hacker/creators use their programming knowledge and our collection of music, visual APIs, and coding assets to develop their industry-changing prototypes and compete for cash prizes, awarded by our panel of celebrity judges.
 
-> **Success**  [**Learn More**](https://www.sxsw.com/conference/sxsw-hackathon/ "Registration and Event Details")
+> **success** **Learn More:** [Registration and Event Details](https://www.sxsw.com/conference/sxsw-hackathon/ "Registration and Event Details")
 
 **Sponsored By**
 
