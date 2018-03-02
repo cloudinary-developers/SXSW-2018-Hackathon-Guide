@@ -3,13 +3,12 @@
 ## Music Tech Hackathon Guide
 
 * [Challenge and Prizes](README.md)
-* [Developer Survey](/hacker-survey.md)
 
-## Thought Starters
+* Thought Starters
 
-* [Music Discovery Service](thought-starters/build-a-music-discovery-service.md)
-* [Multi-User Sing Along ](thought-starters/multi-user-sing-along.md)
-* [Cover Art & Fan Pages](thought-starters/build-styled-fan-pages-from-artist-photos.md)
+    * [Music Discovery Service](thought-starters/build-a-music-discovery-service.md)
+    * [Multi-User Sing Along ](thought-starters/multi-user-sing-along.md)
+    * [Cover Art & Fan Pages](thought-starters/build-styled-fan-pages-from-artist-photos.md)
 
 ## Learn, Code and Recipes
 
