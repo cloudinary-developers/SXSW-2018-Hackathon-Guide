@@ -1,9 +1,11 @@
-# Music Tech Hackathon Guide
+# SXSW 2018 Hackathon Guide
 
-The SF Music Tech Hackathon is 24 hours of straight action as hackers, innovators, tech specialists, artists, makers and coders use and share their knowledge to develop the new, innovative solutions in the MusicTech industry.
- The event is help on October 14-15, from 1pm Saturday to 4pm Sunday at Upload SF, 1535 Mission Street, San Francisco, CA 94103
-  
-![](http://www.sfmusictech.com/wp-content/uploads/2017/08/hackathon_pageheader-1.png)
+![](/assets/2017-SXSW-Hackathon-photo-by-Randy-and-Jackie-Smith.jpg)
+
+The SXSW Hackathon (formerly the SXSW Music Hackathon) is 24 straight hours of buzzing, high-tech creativity as music, VR/AR, and film hacker/creators use their programming knowledge and our collection of music, visual APIs, and coding assets to develop their industry-changing prototypes and compete for cash prizes, awarded by our panel of celebrity judges.
+
+> **Success**  [**Learn More**](https://www.sxsw.com/conference/sxsw-hackathon/ "Registration and Event Details")
+
 **Sponsored By**
 
 ![](https://res.cloudinary.com/cloudinary/image/upload/c_scale,w_300/v1/logo/for_white_bg/cloudinary_logo_for_white_bg.png) 
@@ -21,9 +23,3 @@ Build and demonstrate the best use of Cloudinary in your hack to win fun prizes.
 * 1-year _Cloudinary Plus_ plan \($1068 value\) award to the hack team chosen as _best use of Cloudinary API_.
 * The most creative hack projects (that make use of Cloudinary API) will be featured on our Blog.
 
-
-**Survey:**
-
-Enter our [survey](//hacker-survey.md) and get a chance to win a drone!  
-![](/assets/drone.png)
-<hr>
