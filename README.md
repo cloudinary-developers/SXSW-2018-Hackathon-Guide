@@ -1,6 +1,7 @@
 # SXSW 2018 Hackathon Guide
 
 ![](/assets/2017-SXSW-Hackathon-photo-by-Randy-and-Jackie-Smith.jpg)
+> 2017 SXSW Hackathon – Photo by Randy and Jackie Smith
 
 The SXSW Hackathon (formerly the SXSW Music Hackathon) is 24 straight hours of buzzing, high-tech creativity as music, VR/AR, and film hacker/creators use their programming knowledge and our collection of music, visual APIs, and coding assets to develop their industry-changing prototypes and compete for cash prizes, awarded by our panel of celebrity judges.
 
