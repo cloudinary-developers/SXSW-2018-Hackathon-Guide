@@ -14,39 +14,40 @@
 * Music Discovery APIs
   * [Getting Started](/7Digital/intro.md)
 
-* Audio and Video
+* Cloudinary
+  * Audio and Video
 
-  * [Video Transcoding](audio-and-video/video-transcoding.md)
-  * [HTML5 Video Player](audio-and-video/html-5-video-player.md)
-  * [Media Protection](audio-and-video/protecting-your-videos.md)
+    * [Video Transcoding](audio-and-video/video-transcoding.md)
+    * [HTML5 Video Player](audio-and-video/html-5-video-player.md)
+    * [Media Protection](audio-and-video/protecting-your-videos.md)
 
-* AI: Tagging and Recognition
+  * AI: Tagging and Recognition
 
-  * [Categorizing Images](auto-tagging-facial-recognition-and-ai/add-ons-and-other-features.md)
-  * [Content Moderation](auto-tagging-facial-recognition-and-ai/content-moderation.md)
+      * [Categorizing Images](auto-tagging-facial-recognition-and-ai/add-ons-and-other-features.md)
+      * [Content Moderation](auto-tagging-facial-recognition-and-ai/content-moderation.md)
 
-* Serverless Functions
+  * Serverless Functions
 
-  * [Webtask & Cloudinary](functions-as-a-service/build-an-online-contest.md)
+    * [Webtask & Cloudinary](functions-as-a-service/build-an-online-contest.md)
 
-* Web Performance
+  * Web Performance
 
-  * [Responsive Media](performance/rich-image-delivery.md)
-  * [Optimizing Images](performance/auto-crop-responsive-images.md)
+    * [Responsive Media](performance/rich-image-delivery.md)
+    * [Optimizing Images](performance/auto-crop-responsive-images.md)
 
-* Presentation and Styling
+  * Presentation and Styling
 
-  * [Neural Artwork](presentation-and-responsive-image-delivery/turn-photos-to-art-with-style-transfer.md)
-  * [Artistic Filters](presentation-and-responsive-image-delivery/image-filters.md)
-  * [Distortion Effects](presentation-and-responsive-image-delivery/size-images-to-fit-your-graphic-design.md)
+    * [Neural Artwork](presentation-and-responsive-image-delivery/turn-photos-to-art-with-style-transfer.md)
+    * [Artistic Filters](presentation-and-responsive-image-delivery/image-filters.md)
+    * [Distortion Effects](presentation-and-responsive-image-delivery/size-images-to-fit-your-graphic-design.md)
 
-* Uploading
+  * Uploading
 
-  * [Social Sources for Media](uploading/upload-videos-from-dropbox-and-other-sources.md)
+    * [Social Sources for Media](uploading/upload-videos-from-dropbox-and-other-sources.md)
 
-* Visualization
+  * Visualization
 
-  * [Audio to Waveform Images](visualization/audio-to-waveform-images.md)
+    * [Audio to Waveform Images](visualization/audio-to-waveform-images.md)
 
 
 
