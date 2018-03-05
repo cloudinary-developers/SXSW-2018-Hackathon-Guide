@@ -12,7 +12,7 @@
 
 ### Learn, Code and Recipes
 * Music Discovery APIs
-  * Getting Started
+  * [Getting Started](/7Digital/intro.md)
 
 * Audio and Video
 
