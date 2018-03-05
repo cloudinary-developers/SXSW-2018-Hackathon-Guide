@@ -11,12 +11,11 @@
 ## Learn, Code and Recipes
 
 * [Music Discovery APIs](learn-code-and-recipes/music-discovery-apis.md)
-  * [Getting Started](/7Digital/intro.md )
-  * [API Documentation](/7Digital/api-docs.md "API Documentation")
-    * Catalog
-      * [Artist Browse](/7Digital/catalog-browse.md)
-      * [Artist Charts](/7Digital/catalog-chart.md)
-      * [Artist Search](/7Digital/catalog-search.md)
+  * [Getting Started](/7Digital/intro.md)
+  * [API Cheat Sheet](/7Digital/api-docs.md)
+  * [Artist Browse](/7Digital/catalog-browse.md)
+  * [Artist Charts](/7Digital/catalog-chart.md)
+  * [Artist Search](/7Digital/catalog-search.md)
 
 
 
