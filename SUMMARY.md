@@ -14,7 +14,12 @@
   * [Getting Started](/7Digital/intro.md )
   * [API Documentation](/7Digital/api-docs.md "API Documentation")
     * Catalog
-      *
+      * [Artist Browse](/7Digital/catalog-browse.md)
+      * [Artist Charts](/7Digital/catalog-chart.md)
+      * [Artist Search](/7Digital/catalog-search.md)
+
+
+
 * Cloudinary
   * Audio and Video
     * [Video Transcoding](audio-and-video/video-transcoding.md)
