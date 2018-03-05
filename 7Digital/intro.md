@@ -1,10 +1,13 @@
 #Getting Started with 7Digital
 ###Universal Music Group/ Captial Music Group Catalog
 
-![](/7Digital/7digital-logo.png)
+![](/7Digital/7d_wordmark_colour_RGB.png)
 
-The 7Digital APIs provide many methods for browsing and streaming a catalog of tracks made available by Universal Music Group (UMG) / Capitol Music Group (CMG)
-
+The 7Digital APIs provide many methods for browsing and streaming a catalog of tracks made available by Capitol Music Group (CMG). Capitol Music Group (CMG) is comprised of Capitol Records, Virgin Records, Motown Records, Blue Note Records, Astralwerks, Harvest Records, Capitol Christian Music Group, and CMG’s independent distribution division, Caroline.
+ 
+Innovation Center:
+Based in the legendary Capitol Tower and Studios in Hollywood, California, the Capitol Innovation Center is a workspace and slate of events designed to bring together leading thinkers from the music industry, technology eco-system and student community to help drive the future of innovation in music.
+ 
 
 ###Docs
 [7Digital API Documentation](http://docs.7digital.com) [links out to website]
