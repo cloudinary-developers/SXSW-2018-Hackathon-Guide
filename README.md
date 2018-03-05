@@ -8,7 +8,6 @@ The SXSW Hackathon (formerly the SXSW Music Hackathon) is 24 straight hours of b
 > **success** **Learn More:** [Registration and Event Details](https://www.sxsw.com/conference/sxsw-hackathon/ "Registration and Event Details")
 
 
-We're hackers too, so we know your time at the hackathon is limited. That's why we've developed this guide to help you harness our technology to realize your ideas in the most efficient way possible.
 
 **Sponsored By**
 
