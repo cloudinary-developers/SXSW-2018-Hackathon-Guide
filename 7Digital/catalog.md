@@ -8,5 +8,3 @@ This section details the endpoints used to retrieve details of tracks, releases 
 * [Artist Charts](/7Digital/catalog-chart.md)
 * [Artist Search](/7Digital/catalog-search.md)
 
-
-
