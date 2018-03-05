@@ -1,4 +1,5 @@
-#### 7Digital Cheat Sheet: {#api-basics_Request-Format}
+#### 7Digital API Documentation Cheat Sheet: 
+
 
 > **Success** Complete Docs: [http://docs.7digital.com/#api-basics ](http://docs.7digital.com/#api-basics "API-BASICS")
 
