@@ -1,9 +1,9 @@
 #Getting Started with 7Digital
-###Captial Records / Universal Music Group Catalogs
+###Universal Music Group/ Captial Music Group Catalog
 
 ![](/7Digital/7digital-logo.png)
 
-The 7Digital APIs provide many methods for browsing and streaming a catalog of tracks made available by Capitol Music Group (CMG) / Universal Music Group (UMG)
+The 7Digital APIs provide many methods for browsing and streaming a catalog of tracks made available by Universal Music Group (UMG) / Capitol Music Group (CMG)
 
 
 ###Docs
