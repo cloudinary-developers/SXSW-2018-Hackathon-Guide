@@ -11,7 +11,8 @@
 ## Learn, Code and Recipes
 
 * [Music Discovery APIs](learn-code-and-recipes/music-discovery-apis.md)
-  * [Getting Started](/7Digital/intro.md)
+  * [Getting Started](/7Digital/intro.md )
+  * [API Documentation](/7Digital/api-docs.md "API Documentation")
 * Cloudinary
   * Audio and Video
     * [Video Transcoding](audio-and-video/video-transcoding.md)
