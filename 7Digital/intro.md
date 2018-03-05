@@ -7,7 +7,11 @@ The 7Digital APIs provide many methods for browsing and streaming a catalog of t
 
 
 ###Docs
-[7Digital API Documentation](http://docs.7digital.com) 
+[7Digital API Documentation](http://docs.7digital.com) [links out to website]
+
+[Cheat Sheet](/7Digital/api-docs.md "Cheat Sheet")
+[Catalog API Documantion](/7Digital/catalog.md)
+
 TODO create local version
 
 Artist - browse by name
