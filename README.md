@@ -7,11 +7,21 @@ The SXSW Hackathon (formerly the SXSW Music Hackathon) is 24 straight hours of b
 
 > **success** **Learn More:** [Registration and Event Details](https://www.sxsw.com/conference/sxsw-hackathon/ "Registration and Event Details")
 
+
+We're hackers too, so we know your time at the hackathon is limited. That's why we've developed this guide to help you harness our technology to realize your ideas in the most efficient way possible.
+
 **Sponsored By**
 
 ![](https://res.cloudinary.com/cloudinary/image/upload/c_scale,w_300/v1/logo/for_white_bg/cloudinary_logo_for_white_bg.png) 
+**Cloudinary**
 
 At Cloudinary, we believe images and visuals greatly enhance the user experience of music and video. As a powerful API for media management, we let developers handle images, videos, audio and emerging media types. End-to-end automation includes media selection, upload, analysis, administration, manipulation, optimization and delivery. 
+
+![](https://www.sxsw.com/wp-content/uploads/2018/03/Capitol-music-group-logo.png) 
+
+
+**Capitol Music Group (CMG) / Universal Music Group (UMG) / 7Digital**
+7Digital APIs provide many methods for browsing and streaming a catalog of tracks made available by CMG/UMG. Capitol Music Group (CMG) is comprised of Capitol Records, Virgin Records, Motown Records, Blue Note Records, Astralwerks, Harvest Records, Capitol Christian Music Group, and CMG’s independent distribution division, Caroline.
 
 We're hackers too, so we know your time at the hackathon is limited. That's why we've developed this guide to help you harness our technology to realize your ideas in the most efficient way possible.
 
