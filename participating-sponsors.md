@@ -7,15 +7,18 @@ At Cloudinary, we believe images and visuals greatly enhance the user experience
 
 ---
 
-![](/7Digital/Capitol-music-group-logo.png)   
+![](/7Digital/Capitol-music-group-logo.png)
+
 **Capitol Music Group (CMG) / Universal Music Group (UMG) **
-Capitol Music Group (CMG) is comprised of Capitol Records, Virgin Records, Motown Records, Blue Note Records, Astralwerks, Harvest Records, Capitol Christian Music Group, and CMG’s independent distribution division, Caroline. 
+Capitol Music Group (CMG) is comprised of Capitol Records, Virgin Records, Motown Records, Blue Note Records, Astralwerks, Harvest Records, Capitol Christian Music Group, and CMG’s independent distribution division, Caroline.
+
 **Capitol Innovation Center**
 Based in the legendary Capitol Tower and Studios in Hollywood, California, the Capitol Innovation Center is a workspace and slate of events designed to bring together leading thinkers from the music industry, technology eco-system and student community to help drive the future of innovation in music.
 
 ---
 
 ![](/7Digital/7d_wordmark_colour_RGB.png)
+
 **7Digital**
 7Digital APIs provide many methods for browsing and streaming a catalog of tracks made available by CMG/UMG. 
 
