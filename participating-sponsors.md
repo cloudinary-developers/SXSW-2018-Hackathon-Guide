@@ -1,15 +1,15 @@
 ## Sponsored By
 
-![](https://res.cloudinary.com/cloudinary/image/upload/c_scale,w_300/v1/logo/for_white_bg/cloudinary_logo_for_white_bg.png) 
-**Cloudinary**
+![](https://res.cloudinary.com/cloudinary/image/upload/c_scale,w_300/v1/logo/for_white_bg/cloudinary_logo_for_white_bg.png)
 
+**Cloudinary**
 At Cloudinary, we believe images and visuals greatly enhance the user experience of music and video. As a powerful API for media management, we let developers handle images, videos, audio and emerging media types. End-to-end automation includes media selection, upload, analysis, administration, manipulation, optimization and delivery. 
 
 ---
 
 ![](/7Digital/Capitol-music-group-logo.png)
 
-**Capitol Music Group (CMG) / Universal Music Group (UMG) **
+**Capitol Music Group (CMG) / Universal Music Group (UMG)**
 Capitol Music Group (CMG) is comprised of Capitol Records, Virgin Records, Motown Records, Blue Note Records, Astralwerks, Harvest Records, Capitol Christian Music Group, and CMG’s independent distribution division, Caroline.
 
 **Capitol Innovation Center**
