@@ -3,7 +3,8 @@
 ## Music Tech Hackathon Guide
 
 * [Challenge and Prizes](README.md)
-* Thought Starters
+* [Participating Sponsors](participating-sponsors.md)
+* [Thought Starters](thought-starters.md)
   * [Music Discovery Service](thought-starters/build-a-music-discovery-service.md)
   * [Multi-User Sing Along ](thought-starters/multi-user-sing-along.md)
   * [Cover Art & Fan Pages](thought-starters/build-styled-fan-pages-from-artist-photos.md)
@@ -17,7 +18,7 @@
   * [Artist Charts](/7Digital/catalog-chart.md)
   * [Artist Search](/7Digital/catalog-search.md)
 
-
+---
 
 * Cloudinary
   * Audio and Video
@@ -40,6 +41,4 @@
     * [Social Sources for Media](uploading/upload-videos-from-dropbox-and-other-sources.md)
   * Visualization
     * [Audio to Waveform Images](visualization/audio-to-waveform-images.md)
-
-
 
