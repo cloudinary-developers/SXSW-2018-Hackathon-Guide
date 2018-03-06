@@ -9,7 +9,7 @@ The SXSW Hackathon (formerly the SXSW Music Hackathon) is 24 straight hours of b
 
 We're hackers too, so we know your time at the hackathon is limited. That's why we've developed this guide to help you harness our technology to realize your ideas in the most efficient way possible.
 
-###Challenge:
+## Challenge:
 
 Build and demonstrate the best use of Cloudinary in your hack to win fun prizes.
 

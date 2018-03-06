@@ -1,4 +1,4 @@
-#### 7Digital API Documentation Cheat Sheet: 
+#### 7Digital API Cheat Sheet: 
 
 
 > **Success** Complete Docs: [http://docs.7digital.com/#api-basics ](http://docs.7digital.com/#api-basics "API-BASICS")
