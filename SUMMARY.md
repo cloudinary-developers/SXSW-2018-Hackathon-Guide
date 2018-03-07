@@ -8,13 +8,13 @@
   * [Music Discovery Service](thought-starters/build-a-music-discovery-service.md)
   * [Multi-User Sing Along ](thought-starters/multi-user-sing-along.md)
   * [Cover Art & Fan Pages](thought-starters/build-styled-fan-pages-from-artist-photos.md)
-* [Music Discovery APIs](learn-code-and-recipes/music-discovery-apis.md)
+* Music Discovery APIs
   * [Getting Started](/7Digital/intro.md)
   * [API Cheat Sheet](/7Digital/api-docs.md)
   * [Artist - Browse](/7Digital/catalog-browse.md)
   * [Artist - Chart](/7Digital/catalog-chart.md)
   * [Artist - Search](/7Digital/catalog-search.md)
-* [Media Management APIs](media-management/cloudinary.md)
+* Media Management APIs
   * [Audio and Video](audio-and-video.md)
     * [Video Transcoding](audio-and-video/video-transcoding.md)
     * [HTML5 Video Player](audio-and-video/html-5-video-player.md)
