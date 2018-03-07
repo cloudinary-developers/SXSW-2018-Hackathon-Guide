@@ -4,7 +4,7 @@
 
 * [Challenge and Prizes](README.md)
 * [Participating Sponsors](participating-sponsors.md)
-* [Thought Starters](thought-starters.md)
+* Thought Starters
   * [Music Discovery Service](thought-starters/build-a-music-discovery-service.md)
   * [Multi-User Sing Along ](thought-starters/multi-user-sing-along.md)
   * [Cover Art & Fan Pages](thought-starters/build-styled-fan-pages-from-artist-photos.md)
