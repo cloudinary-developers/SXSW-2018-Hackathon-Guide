@@ -15,14 +15,14 @@
   * [Artist - Chart](/7Digital/catalog-chart.md)
   * [Artist - Search](/7Digital/catalog-search.md)
 * Media Management APIs
-  * [Audio and Video](audio-and-video.md)
+  * Audio and Video
     * [Video Transcoding](audio-and-video/video-transcoding.md)
     * [HTML5 Video Player](audio-and-video/html-5-video-player.md)
     * [Media Authentication](audio-and-video/protecting-your-videos.md)
   * AI: Tagging and Recognition
     * [Categorizing Images](auto-tagging-facial-recognition-and-ai/add-ons-and-other-features.md)
     * [Content Moderation](auto-tagging-facial-recognition-and-ai/content-moderation.md)
-  * [Serverless Functions \(FaaS\)](serverless-functions.md)
+  * Serverless Functions
     * [Webtask & Cloudinary](functions-as-a-service/build-an-online-contest.md)
   * Web Performance
     * [Image Optimization I](performance/rich-image-delivery.md)
