@@ -8,6 +8,7 @@
   * [Music Discovery Service](thought-starters/build-a-music-discovery-service.md)
   * [Multi-User Sing Along ](thought-starters/multi-user-sing-along.md)
   * [Cover Art & Fan Pages](thought-starters/build-styled-fan-pages-from-artist-photos.md)
+  * [Interactive Lyrics Page](thought-starters/interactive-lyrics-page.md)
 * Music Discovery APIs
   * [Getting Started](/7Digital/intro.md)
   * [API Cheat Sheet](/7Digital/api-docs.md)
