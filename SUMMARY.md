@@ -27,7 +27,7 @@
   * Web Performance
     * [Image Optimization I](performance/rich-image-delivery.md)
     * [Image Optimization II](performance/auto-crop-responsive-images.md)
-  * [Styling and Filtering](presentation-and-styling.md)
+  * Styling and Filtering
     * [Neural Artwork](presentation-and-responsive-image-delivery/turn-photos-to-art-with-style-transfer.md)
     * [Artistic Filters](presentation-and-responsive-image-delivery/image-filters.md)
     * [Distortion Effects](presentation-and-responsive-image-delivery/size-images-to-fit-your-graphic-design.md)
