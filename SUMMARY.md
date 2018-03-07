@@ -1,6 +1,6 @@
 # Summary
 
-## Music Tech Hackathon Guide
+## SXSW 2018 Hackathon Guide
 
 * [Challenge and Prizes](README.md)
 * [Participating Sponsors](participating-sponsors.md)
