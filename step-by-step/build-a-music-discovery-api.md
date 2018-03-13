@@ -20,13 +20,52 @@ Create a new task called:
 ###Add the NPM Modules
 
 ###Test The service:
-(your-cloud-url)/music-discovery-service/(api-end-point)/(params)
+```code
+https://(your-cloud-url)/music-discovery-service/(api-end-point)/(params)
+```
 
 #APIS:
-####Browse (Letter)
+##Browse 
+####/browse/(letter)
 ####Returns artists id.
+```code
 https://evangelism.cloudinary.auth0-extend.com/sxsw-music-discovery-service/browse/b
+```
 
+
+
+##Search:
+####/search/(name)
+####Returns Artist Info:
+```code
+https://evangelism.cloudinary.auth0-extend.com/sxsw-music-discovery-service/search/Cyndi%20Lauper
+```
+
+
+
+##Releases  
+####/releases/(artistid)
+####Returns  releases by that Artist.
+```code
+https://evangelism.cloudinary.auth0-extend.com/sxsw-music-discovery-service/releases/11319
+```
+
+
+##tracks   
+####/tracks/(released)
+####Returns all the tracks for that release:
+```code
+https://evangelism.cloudinary.auth0-extend.com/sxsw-music-discovery-service/tracks/5514991
+```
+
+
+
+##Lyrics 
+####/lyrics/(ssrc)
+####Returns lyrics and a NLP reduced keyword list
+```code
+https://evangelism.cloudinary.auth0-extend.com/sxsw-music-discovery-service/lyrics/USCJ81000500
+```
 
 
 
