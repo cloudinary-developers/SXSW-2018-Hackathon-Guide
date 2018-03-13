@@ -17,6 +17,16 @@ Create a new task called:
 
 Add The Secrets
 Add the NPM Modules
-Test The service
+
+Test The service:
+(your-cloud-url)/music-discovery-service/(api-end-point)/(params)
+
+APIS:
+Browse (Letter)
+Returns artists id.
+https://evangelism.cloudinary.auth0-extend.com/SXSW-7Digital/browse/b
+
+
+
 
 
