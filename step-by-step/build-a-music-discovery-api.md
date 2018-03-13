@@ -25,7 +25,7 @@ https://(your-cloud-url)/music-discovery-service/(api-end-point)/(params)
 ```
 
 #APIS:
-###Browse 
+##Browse 
 ####/browse/(letter)
 ####Returns artists id.
 ```code
@@ -34,7 +34,7 @@ https://evangelism.cloudinary.auth0-extend.com/sxsw-music-discovery-service/brow
 
 
 
-###Search: (name)
+##Search:
 ####/search/(name)
 ####Returns Artist Info:
 ```code
@@ -43,7 +43,7 @@ https://evangelism.cloudinary.auth0-extend.com/sxsw-music-discovery-service/sear
 
 
 
-###Releases  
+##Releases  
 ####/releases/(artistid)
 ####Returns  releases by that Artist.
 ```code
@@ -51,7 +51,7 @@ https://evangelism.cloudinary.auth0-extend.com/sxsw-music-discovery-service/rele
 ```
 
 
-###tracks   
+##tracks   
 ####/tracks/(released)
 ####Returns all the tracks for that release:
 ```code
@@ -60,7 +60,7 @@ https://evangelism.cloudinary.auth0-extend.com/sxsw-music-discovery-service/trac
 
 
 
-###Lyrics 
+##Lyrics 
 ####/lyrics/(ssrc)
 ####Returns lyrics and a NLP reduced keyword list
 ```code
