@@ -37,7 +37,8 @@ Our player expects a playlist array that looks [like this](https://github.com/br
 	sources: [
 		{ src: 'http://vjs.zencdn.net/v/oceans.mp4', type: 'video/mp4' },
 		{ src: 'http://vjs.zencdn.net/v/oceans.webm', type: 'video/webm' },
-  ]
+  ],
+  poster: 'https://demo-res.cloudinary.com/sample.jpg'
 },
 {
 	name: 'Another Cool Vid',
@@ -45,7 +46,8 @@ Our player expects a playlist array that looks [like this](https://github.com/br
 	sources: [
 		{ src: 'http://vjs.zencdn.net/v/oceans.mp4', type: 'video/mp4' },
 		{ src: 'http://vjs.zencdn.net/v/oceans.webm', type: 'video/webm' },
-  ]
+  ],
+  poster: 'https://demo-res.cloudinary.com/sample.jpg'
 }
 ]
 ```
