@@ -36,6 +36,7 @@
     * [Social and Cloud Sources](uploading/upload-videos-from-dropbox-and-other-sources.md)
   * Visualization
     * [Audio to Waveform Images](visualization/audio-to-waveform-images.md)
-* Step-By-Step Guides
-  * [Audio Player](audio-player.md)
+* [Step-By-Step Guides](step-by-step-guides.md)
+  * Steaming Audio
+    * [Build an Audio Player](/step-by-step/intro.md)
 
