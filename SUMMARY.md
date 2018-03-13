@@ -37,6 +37,7 @@
   * Visualization
     * [Audio to Waveform Images](visualization/audio-to-waveform-images.md)
 * [Step-By-Step Guides](step-by-step-guides.md)
-  * Steaming Audio
+  * Streaming Audio
     * [Build an Audio Player](/step-by-step/intro.md)
+    * [Build a Music Discovery API](/step-by-step/build-a-music-discovery-api.md)
 
