@@ -11,9 +11,10 @@ We're going to build a series of api endpoints that will be hosted on Auth0's We
 Once you've logged in create an empty task and run it to get familiar with the  platform and editor.
 
 Create a new task called: 
-> music-discovery-service
+> sxsw-music-discovery-service
 
-[Copy the source code of our Music Discovery Service API](https://github.com/cloudinary-developers/sxsw-hackathon/blob/master/sxsw-7-digital.js)
+
+[Copy the source code of our Music Discovery Service API](https://github.com/cloudinary-developers/sxsw-hackathon/blob/master/sxsw-music-discovery-service.js)
 
 ###Add The Secrets
 ###Add the NPM Modules
@@ -24,7 +25,7 @@ Create a new task called:
 #APIS:
 ####Browse (Letter)
 ####Returns artists id.
-https://evangelism.cloudinary.auth0-extend.com/SXSW-7Digital/browse/b
+https://evangelism.cloudinary.auth0-extend.com/sxsw-music-discovery-service/browse/b
 
 
 
