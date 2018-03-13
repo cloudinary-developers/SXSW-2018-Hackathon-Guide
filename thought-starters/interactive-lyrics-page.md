@@ -2,7 +2,7 @@
 
 ![](/assets/song-lyrics.jpg)
 
-Create an interactive lyrics page using audio files from 7digital and Cloudinary’s [Google Transcription add-on](https://cloudinary.com/documentation/google_ai_video_transcription_addon).
+Create an interactive lyrics page.
 
 **_Here's a [transcribed video](https://codepen.io/dzeitman/live/PQdWvm) for some inspiration!_**
 
