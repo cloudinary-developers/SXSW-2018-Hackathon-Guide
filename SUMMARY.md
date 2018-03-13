@@ -37,5 +37,5 @@
   * Visualization
     * [Audio to Waveform Images](visualization/audio-to-waveform-images.md)
 * Step-By-Step Guides
-  * Audio Player
-    * [](/step-by-step/intro.md)
+  * [Audio Player](audio-player.md)
+
