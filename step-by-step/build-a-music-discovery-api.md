@@ -15,15 +15,15 @@ Create a new task called:
 
 [Copy the source code of our Music Discovery Service API](https://github.com/cloudinary-developers/sxsw-hackathon/blob/master/sxsw-7-digital.js)
 
-Add The Secrets
-Add the NPM Modules
+###Add The Secrets
+###Add the NPM Modules
 
-Test The service:
+###Test The service:
 (your-cloud-url)/music-discovery-service/(api-end-point)/(params)
 
-APIS:
-Browse (Letter)
-Returns artists id.
+#APIS:
+####Browse (Letter)
+####Returns artists id.
 https://evangelism.cloudinary.auth0-extend.com/SXSW-7Digital/browse/b
 
 
