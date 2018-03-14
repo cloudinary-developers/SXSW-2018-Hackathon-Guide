@@ -23,18 +23,47 @@ Once you’ve filled out the form (don’t forget to customize your cloud name, 
 Once you've logged in create an empty task and run it to get familiar with the  platform and editor.
 
 Create a new task called: 
-> sxsw-music-discovery-service
 
+>sxsw-music-discovery-service
+ 
 
 [Copy the source code of our Music Discovery Service API](https://github.com/cloudinary-developers/sxsw-hackathon/blob/master/sxsw-music-discovery-service.js)
+```
 
 ###Add The Secrets
+
+What is the Context Object
+
+In Webtask, there is a context object available with quite a few useful properties that can be accessed while running your tasks.
+```code 
+
+var context = {
+  body,
+  meta,
+  storage,
+  params,
+  query,
+  secrets,
+  headers,
+  data
+};
+```
+
+
+You will want to store your api and access keys in the context.secrets
+
+
+![](/assets/secrets-1.png)
+
+![](/assets/secrets-2.png)
+
+
 ###Add the NPM Modules
 
 ###Test The service:
-```code
+
 https://(your-cloud-url)/music-discovery-service/(api-end-point)/(params)
-```
+
 
 #APIS:
 ##Browse 
